@@ -1,0 +1,9 @@
+{
+	"connectString": "mongodb+srv://readonly:m9O86h17Pzb4qA05@db-mongodb-sfo3-57557-restored-3422b244.mongo.ondigitalocean.com",
+	"database": "ActivityStream",
+	"stateFile": "./decisions.json",
+	"scanLimit": 500,
+	"includeAll": false,
+	"includeDecided": false,
+	"includeDuplicates": false
+}
